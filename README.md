@@ -1,4 +1,5 @@
 🌟 Textgram
+
 Dein animiertes und interaktives Chat-Erlebnis, jetzt in React!
 
 ⸻
@@ -8,9 +9,13 @@ Dein animiertes und interaktives Chat-Erlebnis, jetzt in React!
 Textgram ist ein moderner Chatroom, der mit React, Vite und Tailwind CSS entwickelt wurde und ein interaktives, ansprechendes Nutzererlebnis bietet.
 
 Hauptfunktionen:
+
  • 🌙 Hell-/Dunkelmodus mit nur einem Klick
+ 
  • 🧑‍🤝‍🧑 Mehrere Benutzer mit Avatar und Animationen
+ 
  • 📱 Responsive Design für Mobilgeräte und Desktop
+ 
  • ⚡️ Animierte UI-Interaktionen für ein besseres Nutzererlebnis
 
 ⸻
@@ -25,20 +30,29 @@ Hauptfunktionen:
 ⚡️ Funktionen (mit kleinen Animationen)
 
 Funktion
+
 Beschreibung
+
 🌙 Hell-/Dunkelmodus
 Schneller Wechsel zwischen den Modi  
+
 🧑‍🤝‍🧑 Mehrere Benutzer mit Avatar
 Anzeige von Online-Benutzern mit Animation  
+
 📱 Responsive Design
 Optimiert für Mobilgeräte und Desktop
+
 ⚡️ Animationen
 Nachrichten und Interaktionen mit attraktiven Effekten
 
 🛠️ Technologien
+
  • React 18 – Komponentenentwicklung
+ 
  • Vite – schnelles Projekt-Setup
+ 
  • Tailwind CSS 3 – modernes und responsives Design
+ 
  • JavaScript (ES6+) – Logik und Interaktionen
 
 💻 Installation und Start
