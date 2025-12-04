@@ -27,9 +27,11 @@ Hauptfunktionen:
 </div>  
 *Hell-/Dunkelmodus und Benutzer mit animierten Avataren*  
 
-⚡️ Funktionen (mit kleinen Animationen)
 
-Funktion
+
+#⚡️ Funktionen (mit kleinen Animationen)
+
+#Funktion
 
 Beschreibung
 
