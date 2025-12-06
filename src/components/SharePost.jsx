@@ -15,7 +15,7 @@ const SharePost = () => {
           className="shadow-md outline-none resize-none rounded-2xl border p-3 w-full ring-transparent transition-all duration-200 hover:bg-gray-900 focus:-translate-y-1 focus:bg-gray-900 focus:shadow-xl focus:ring-2 focus:ring-blue-500 dark:bg-black"
         ></textarea>
       </div>
-      {/* Salam chetori */}
+      
       <div className="flex flex-wrap items-center justify-between">
         <div className="flex flex-wrap items-center justify-start gap-3">
           <div className="flex cursor-pointer gap-2 rounded-xl p-2 transition-all duration-200 hover:bg-blue-500 hover:text-white">
