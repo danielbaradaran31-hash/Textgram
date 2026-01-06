@@ -29,7 +29,7 @@ Hauptfunktionen:
 
 
 
-#⚡️ Funktionen (mit kleinen Animationen)
+⚡️ Funktionen (mit kleinen Animationen)
 
 Funktion
 
